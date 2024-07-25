@@ -46,6 +46,8 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
 
 [Dashboards.xlsx](https://github.com/user-attachments/files/16383853/Dashboards.xlsx)
 
+<img width="525" alt="Dashboards_screenshot" src="https://github.com/user-attachments/assets/e0b85ae6-789a-4bc8-ae24-bcfa95c7d51a">
+
 ### Findings
 ---
 Summary of results.
