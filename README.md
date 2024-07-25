@@ -12,18 +12,22 @@
 - [References](references)
   
 ### Project Overview
+---
 This project performs descriptive analytics on global transactions across various product categories using an online sales dataset. It analyzes sales, revenue, products, geography, and payment methods. Based on the analysis, trends are identified, data-driven insights are generated, and recommendations are provided for future improvements.
 
 ### Data Sources
+---
 The dataset used is a CSV file sourced from Kaggle, titled "Online Sales Dataset-Popular Marketplace Data", [link](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data). It contains data on global transactions across various product categories.
 
 ### Tools
+---
  - Excel is used for the following:
     - data acquisition
     - data preparation and cleaning for issues like duplicates, empty rows, missing values, white spaces and misspellings.
     - data visualization (pivot table & charts, and dashboard)
 
 ### Exploratory Data Analysis
+---
 Exploratory Data Analysis (EDA) is employed to answer key research questions as follows:
   - What are the general revenue and sales trends?
   - Which geographic region generates the largest revenue and sales?
@@ -32,6 +36,7 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
   - What are the top 5 product items in terms of sales? 
 
 ### Data Analysis
+---
   - Pivot tables
   - Pivot Charts: like line charts, Bar charts, Pie charts
   - Pivot timelines:
@@ -39,6 +44,7 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
   - Interractive Excel Dashboards
 
 ### Findings
+---
 Summary of results.
   - General sales/revenue trended positively in the first four months, peaking in January and April at $8,000 and $6,710, respectively, before declining until August.
   - North America generated the highest revenue overall, with a total of $36,844.
@@ -52,6 +58,7 @@ Summary of results.
     5. iPhone 14 Pro ($1,999.98)
 
 ### Recommendations
+---
 1. Leverage Seasonal Trends:
     - Focus marketing efforts in January and April when sales peak.
     - Plan promotions and inventory to capitalize on high-demand periods.
@@ -69,9 +76,11 @@ Summary of results.
     - Ensure sufficient stock of top-selling items to meet demand
 
 ### Limitations
+---
 1. The study relies on a dataset from a single source (Kaggle), which may not fully represent all global transactions. This limitation affects the generalizability of the findings to broader market conditions.
 2. The analysis of payment methods is limited to three options (credit card, debit card, PayPal), potentially overlooking other significant payment methods used in various regions. This limitation might skew the understanding of regional payment preferences.
 
 ### References
+---
   - Online Sales Dataset - Popular Marketplace Data. Kaggle.com. [link](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
 
