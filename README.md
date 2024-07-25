@@ -19,6 +19,7 @@ This project performs descriptive analytics on global transactions across variou
 ---
 The dataset used is a CSV file sourced from Kaggle, titled "Online Sales Dataset-Popular Marketplace Data", [link](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data). It contains data on global transactions across various product categories.
 
+
 ### Tools
 ---
  - Excel is used for the following:
@@ -42,6 +43,8 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
   - Pivot timelines:
   - Pivot Slicers: 2 slicers (geographic region and Payment methods)
   - Interractive Excel Dashboards
+
+[Dashboards.xlsx](https://github.com/user-attachments/files/16383853/Dashboards.xlsx)
 
 ### Findings
 ---
