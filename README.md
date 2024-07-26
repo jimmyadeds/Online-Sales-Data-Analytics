@@ -42,9 +42,9 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
   - Pivot Charts: like line charts, Bar charts, Pie charts
   - Pivot timelines:
   - Pivot Slicers: 2 slicers (geographic region and Payment methods)
-  - Interractive Excel Dashboards
-
-[Dashboards.xlsx](https://github.com/user-attachments/files/16383853/Dashboards.xlsx)
+  - Interractive Excel Dashboard
+  - 
+[Dashboard.xlsx](https://github.com/user-attachments/files/16391221/Dashboard.xlsx)
 
 <img width="525" alt="Dashboards_screenshot" src="https://github.com/user-attachments/assets/e0b85ae6-789a-4bc8-ae24-bcfa95c7d51a">
 
