@@ -30,6 +30,7 @@ The dataset used is a CSV file sourced from Kaggle, titled "Online Sales Dataset
 ### Exploratory Data Analysis
 ---
 Exploratory Data Analysis (EDA) is employed to answer key research questions as follows:
+  - What is the total revenue and total unit of product items sold?
   - What is the general revenue/sales trend?
   - Which geographic region generates the largest revenue/sales?
   - What is the contribution of each product category to total sales?
