@@ -44,10 +44,9 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
   - Pivot Slicers: 2 slicers (geographic region and Payment methods)
   - Interractive Excel Dashboard
 
-[Dashboard.xlsx](https://github.com/user-attachments/files/16400270/Dashboard.xlsx)
+[Dashboard.xlsx](https://github.com/user-attachments/files/16400332/Dashboard.xlsx)
 
-<img width="522" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/e9e01350-02ce-4c13-90cc-746f9bd3dda5">
-
+<img width="521" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/795ec1b4-f3a4-4e51-bd50-d1358f7cd67a">
 
 ### Findings
 ---
