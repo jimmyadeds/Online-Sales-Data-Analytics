@@ -30,8 +30,8 @@ The dataset used is a CSV file sourced from Kaggle, titled "Online Sales Dataset
 ### Exploratory Data Analysis
 ---
 Exploratory Data Analysis (EDA) is employed to answer key research questions as follows:
-  - What are the general revenue and sales trends?
-  - Which geographic region generates the largest revenue and sales?
+  - What is the general revenue/sales trend?
+  - Which geographic region generates the largest revenue/sales?
   - What is the contribution of each product category to total sales?
   - Which payment options are predominant in each region?
   - What are the top 5 product items in terms of sales? 
@@ -39,18 +39,20 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
 ### Data Analysis
 ---
   - Pivot tables
-  - Pivot Charts: like line charts, Bar charts, Pie charts
+  - Pivot Charts: like line charts, Bar charts, Pie charts and cards.
   - Pivot timelines:
   - Pivot Slicers: 2 slicers (geographic region and Payment methods)
   - Interractive Excel Dashboard
-  - 
-[Dashboard.xlsx](https://github.com/user-attachments/files/16391221/Dashboard.xlsx)
 
-<img width="525" alt="Dashboards_screenshot" src="https://github.com/user-attachments/assets/e0b85ae6-789a-4bc8-ae24-bcfa95c7d51a">
+[Dashboard.xlsx](https://github.com/user-attachments/files/16400270/Dashboard.xlsx)
+
+<img width="522" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/e9e01350-02ce-4c13-90cc-746f9bd3dda5">
+
 
 ### Findings
 ---
 Summary of results.
+  - Total revenue for the period was $80,567.85, and total units of product items sold was 518.
   - General sales/revenue trended positively in the first four months, peaking in January and April at $8,000 and $6,710, respectively, before declining until August.
   - North America generated the highest revenue overall, with a total of $36,844.
   - Electronics contributed the most to revenue ($34,982), while Beauty products ($2,622) and Books ($1,862) were the least. Home Appliances, Sports, and Clothing occupied the middle positions in descending order.
