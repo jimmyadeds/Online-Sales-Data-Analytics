@@ -54,22 +54,22 @@ Exploratory Data Analysis (EDA) is employed to answer key research questions as 
 #### 3.  Which geographic region generates the largest revenue/sales?
   The slicer below is used to answer this.
 
-<img width="197" alt="Screenshot 2024-08-07 184811" src="https://github.com/user-attachments/assets/8c61ce25-1550-495c-bf8f-d38f2766aba9">
+<img width="397" alt="Screenshot 2024-08-07 184811" src="https://github.com/user-attachments/assets/8c61ce25-1550-495c-bf8f-d38f2766aba9">
 
 #### 4.  What is the contribution of each product category to total sales?
   The pie chart below is used to answer the question.
 
-<img width="197" alt="Screenshot 2024-08-07 185053" src="https://github.com/user-attachments/assets/5618c100-8afa-41ff-8823-0b8fed1297ef">
+<img width="397" alt="Screenshot 2024-08-07 185053" src="https://github.com/user-attachments/assets/5618c100-8afa-41ff-8823-0b8fed1297ef">
 
 #### 5.  Which payment options are predominant in each region?
   The slicer below is used to answer this.
 
-<img width="198" alt="Screenshot 2024-08-07 184836" src="https://github.com/user-attachments/assets/b5b09b2a-4028-4cd0-a3d8-7457e969baf3">
+<img width="398" alt="Screenshot 2024-08-07 184836" src="https://github.com/user-attachments/assets/b5b09b2a-4028-4cd0-a3d8-7457e969baf3">
 
 #### 6.  What are the top 5 product items in terms of sales?
   The column chart below is used to answer the question.
 
-<img width="229" alt="Screenshot 2024-08-07 185137" src="https://github.com/user-attachments/assets/333f7c5f-6f34-41bb-9792-ee27b6696476">
+<img width="329" alt="Screenshot 2024-08-07 185137" src="https://github.com/user-attachments/assets/333f7c5f-6f34-41bb-9792-ee27b6696476">
 
 
 If you want to see the step-by-step process of the analysis, please watch my video. [Link](https://youtu.be/hwzCd0QZ90c) 
@@ -81,7 +81,7 @@ Check the Excel file for the interactive dashboard [here](https://github.com/use
 ---
 Summary of results.
 
-<img width="721" alt="Screenshot 2024-07-27 144640" src="https://github.com/user-attachments/assets/1a04c61a-62be-44d3-b65c-51d2f5304f72">
+<img width="821" alt="Screenshot 2024-07-27 144640" src="https://github.com/user-attachments/assets/1a04c61a-62be-44d3-b65c-51d2f5304f72">
 
 
   - Total revenue for the period was $80,567.85, and total units of product items sold was 518.
