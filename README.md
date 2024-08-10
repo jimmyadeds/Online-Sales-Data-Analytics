@@ -24,7 +24,7 @@ The dataset used is a CSV file sourced from Kaggle, titled "Online Sales Dataset
 ---
  - Excel is used for the following:
     - data acquisition
-    - data preparation and cleaning for issues like duplicates, empty rows, missing values, white spaces and misspellings.
+    - data cleaning and transformation (Power Query).
     - data visualization (pivot table & pivot charts, and interactive dashboard)
     - Dashboard Interaction (Timeline and Slicers)
 
